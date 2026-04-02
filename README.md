@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on research on AI<br>🌱 I’m currently learning in diploma 2nd year.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on research on AI<br>🌱 I’m currently learning in CO diploma 2nd year.<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
