@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on research on AI<br>🌱 I’m currently learning ANYTHING !.<br>
+🔭 I’m currently working on NOTHING : ) <br>🌱 I’m currently learning NOTHING !<br>
 
 
 ## 🌐 Socials:
