@@ -14,8 +14,8 @@
 ![Gajanan's Github Stats](https://github-readme-stats.vercel.app/api?username=iamgajanan70&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
 ![](https://nirzak-streak-stats.vercel.app/?user=iamgajanan70&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgajanan70&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![aura_repo](https://github-readme-stats.vercel.app/api/pin/?username=iamgajanan70&repo=IronMan&cache_seconds=86400&theme=maroongold)
-![aura_repo](https://github-readme-stats.vercel.app/api/pin/?username=iamgajanan70&repo=ZenitsuPortfolio&cache_seconds=86400&theme=great-gatsby)
+![ironman_repo](https://github-readme-stats.vercel.app/api/pin/?username=iamgajanan70&repo=IronMan&cache_seconds=86400&theme=maroongold)
+
 
 
 ---
