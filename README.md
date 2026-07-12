@@ -11,6 +11,14 @@
 <br/>
 ![gitartwork](gitartwork.svg)
 
+<a href="https://github.com/iamgajanan70/iamgajanan70">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgajanan70/iamgajanan70/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/iamgajanan70/iamgajanan70/main/light_mode.svg">
+  </picture>
+</a>
+
+
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=iamgajanan70&theme=shadow_green&hide_border=false)
