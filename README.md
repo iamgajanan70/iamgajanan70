@@ -18,8 +18,6 @@
 <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgajanan70&theme=nord_bright&)
 <br/>
-![ironman_repo](https://github-readme-stats.vercel.app/api/pin/?username=iamgajanan70&repo=IronMan&cache_seconds=86400&theme=maroongold)
-![aura_repo](https://github-readme-stats.vercel.app/api/pin/?username=iamgajanan70&repo=HabitPunch&cache_seconds=86400&theme=great-gatsby)
 
 
 
